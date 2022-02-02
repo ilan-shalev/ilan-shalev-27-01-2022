@@ -1,0 +1,13 @@
+.search{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.searchText {
+    width: 50%;
+    margin-left: 1rem;
+}
+
+.searchIcon {    
+    margin-top: 0.3rem;
+}

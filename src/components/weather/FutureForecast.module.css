@@ -1,0 +1,6 @@
+.container{
+    width: 7rem;
+    height: 7rem;
+    border-color: grey;
+    border-style: groove;
+}
