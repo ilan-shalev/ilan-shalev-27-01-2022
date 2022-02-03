@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ilan-shalev-27-01-2022/static/css/main.e06b0362.css",
+    "main.js": "/ilan-shalev-27-01-2022/static/js/main.00a4237b.js",
+    "index.html": "/ilan-shalev-27-01-2022/index.html",
+    "main.e06b0362.css.map": "/ilan-shalev-27-01-2022/static/css/main.e06b0362.css.map",
+    "main.00a4237b.js.map": "/ilan-shalev-27-01-2022/static/js/main.00a4237b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06b0362.css",
+    "static/js/main.00a4237b.js"
+  ]
+}
