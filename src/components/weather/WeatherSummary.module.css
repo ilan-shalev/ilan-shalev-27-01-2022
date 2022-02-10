@@ -1,3 +1,8 @@
+/* .container{
+  display: flex;
+  flex-flow: wrap;
+  flex: content;
+} */
 .icon img{
   width: 160px;
   height: 80px;

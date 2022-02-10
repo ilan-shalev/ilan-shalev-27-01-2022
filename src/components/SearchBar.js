@@ -58,6 +58,7 @@ export default function SearchBar({ text, onChanged }) {
     <div className={Styles.search}>
       <BsSearch size={40} className={Styles.searchIcon} />
       <Autocomplete
+        sx={{ width: 500 }}
         autoSelect
         onInputChange={searchInputChangeHandler}
         disablePortal

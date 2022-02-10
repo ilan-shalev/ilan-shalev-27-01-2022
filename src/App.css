@@ -1,7 +1,7 @@
 .App {
   text-align: center;
-  width: 100vw;
-  height: 100vh; 
+  width: 100%vw;
+  height: 100%vh; 
 }
 .light{
   background-color: white;

@@ -12,7 +12,8 @@
     justify-content: space-between;
     margin-left: 5rem;
     margin-right: 5rem;
-    align-items: center;
+    align-items: center;  
+    flex-flow: wrap;
 }
 
 .favoritesIcon{
@@ -26,6 +27,7 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 5%;
+    flex-flow: wrap;
 }
 
 .light{
