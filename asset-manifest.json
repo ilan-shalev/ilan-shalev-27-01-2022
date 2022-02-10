@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ilan-shalev-27-01-2022/static/css/main.29967ae4.css",
+    "main.css": "/ilan-shalev-27-01-2022/static/css/main.19387057.css",
     "main.js": "/ilan-shalev-27-01-2022/static/js/main.83d2cc9b.js",
     "index.html": "/ilan-shalev-27-01-2022/index.html",
-    "main.29967ae4.css.map": "/ilan-shalev-27-01-2022/static/css/main.29967ae4.css.map",
+    "main.19387057.css.map": "/ilan-shalev-27-01-2022/static/css/main.19387057.css.map",
     "main.83d2cc9b.js.map": "/ilan-shalev-27-01-2022/static/js/main.83d2cc9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.29967ae4.css",
+    "static/css/main.19387057.css",
     "static/js/main.83d2cc9b.js"
   ]
 }
